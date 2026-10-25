@@ -1,1 +1,1 @@
-# cpp-practice
+# python-practice
